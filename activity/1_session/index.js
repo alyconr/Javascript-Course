@@ -1,6 +1,7 @@
 // Ejercicio 1
+import {target}  from "./aboutme.js";
 
-console.log("Ejercicio 1");
+console.log("Ejercicio");
 
 // Ejercicio 2
 
